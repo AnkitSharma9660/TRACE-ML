@@ -1,0 +1,13 @@
+# big artifacts
+artifacts/X_scaled.dat
+artifacts/train_benign_idx.npy
+artifacts/*.dat
+artifacts/**/*.dat
+artifacts/*.npy
+artifacts/**/*.npy
+.env
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+.idea/
